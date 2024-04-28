@@ -1,0 +1,27 @@
+$primary: #5271ff;
+$sec: #00a3ab;
+.main {
+  background-color: $sec;
+}
+.mat-toolbar {
+  background-color: white;height: 20%; display: flex; justify-content: space-between;
+  @media (max-width:470px) {
+    flex-wrap: wrap;
+    margin: 5rem 1rem 10rem 1rem;
+    gap: 2rem;
+  }
+}
+.pages-links {
+  display: flex;
+  gap: 2em;
+  font-size: 1.5rem;
+  color: $sec;
+  text-transform: capitalize;
+  cursor: pointer;
+  margin-right: 2rem;
+
+}
+.pages-links > a {
+  color: $sec;
+  text-decoration: none;
+}
