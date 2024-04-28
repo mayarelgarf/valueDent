@@ -1,7 +1,7 @@
 # ValueDent
 web and mobile friendly app for displaying dental products and downloading a catalog 
 
-deployed and hosted on name cheap
+deployed and hosted on name cheap to visit live website visit https://valuedent.co/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
